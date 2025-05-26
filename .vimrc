@@ -10,6 +10,7 @@ set helpheight=12
 
 set list
 set listchars=eol:↲,tab:––⇥,trail:_
+set tabstop=4
 
 set hlsearch
 set noincsearch
